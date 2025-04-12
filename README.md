@@ -4,5 +4,5 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 ---
 
 Requires:
-1. Firefox version : firefox-47.0.linux-x86_64.sdk.tar.bz2
+1. Firefox version : firefox-47.0.linux-x86_64.sdk.tar.bz2  https://ftp.mozilla.org/pub/firefox/releases/47.0/ 
 2. xpi file : advanced-hackbar.xpi
